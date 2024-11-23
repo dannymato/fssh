@@ -2,6 +2,13 @@
 name = "fssh"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0-or-later"
+readme = "README.md"
+description = "An SSH Config Searching Tool"
+homepage = "https://gitlab.com/dannymato/fssh"
+repository = "https://gitlab.com/dannymato/fssh"
+keywords = ["cli", "search", "ssh"]
+command-line-utilities = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
